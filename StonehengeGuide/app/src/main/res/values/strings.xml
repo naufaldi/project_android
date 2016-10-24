@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StonehengeGuide</string>
+    <string name="title_text">Stonehenge Guide</string>
+    <string name="detail_text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Cum dolores eos fugit iure nostrum nulla pariatur repellendus vel? Accusantium amet dolor eveniet itaque laudantium
+        nemo provident rerum saepe sequi voluptatem?</string>
+    <string name="title_activity_image">Stonehenge</string>
+</resources>
