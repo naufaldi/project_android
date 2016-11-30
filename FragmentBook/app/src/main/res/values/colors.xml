@@ -3,6 +3,6 @@
     <color name="primary">#FF5722</color>
     <color name="primary_dark">#E64A19</color>
     <color name="accent">#FF9800</color>
-    <color name="textPrimary">#ffffff</color>
+    <color name="textPrimary">#000000</color>
     <color name="windowsBackground">#0f0f0f0f</color>
 </resources>

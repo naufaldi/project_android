@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ancient Britain</string>
+    <string name="detail_text_album"></string>
+    <string name="detail_text_android"></string>
+    <string name="detail_text_assignment"></string>
+    <string name="detail_text_backup"></string>
+    <string name="detail_text_local"></string>
+</resources>

@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
- >
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/menu_date"
         android:orderInCategory="100"
-        android:showAsAction="ifRoom"
+        android:showAsAction="never"
         android:title="Date and Time"
-        android:icon="@drawable/ic_assignment_black_24dp"
-        />
+        android:icon="@drawable/ic_backup_black_24dp"/>
+
     <item
         android:id="@+id/menu_location"
         android:orderInCategory="100"
-        android:showAsAction="ifRoom"
-        android:title="Location"
+        android:showAsAction="never"
         android:icon="@drawable/ic_assignment_ind_black_24dp"
+        android:title="Location"
         />
     <item
         android:id="@+id/menu_sleep"
+        android:showAsAction="never"
         android:orderInCategory="100"
-        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_assignment_turned_in_black_24dp"
         android:title="Sleep"
-        android:icon="@drawable/ic_backup_black_24dp"
         />
 </menu>
